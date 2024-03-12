@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning python programming and SQL
 - 📫 How to reach me: straznikit@gmail.com
 - ⚡ Fun fact: I get goosebumps just looking at the tissues. If you crush it in front of me, I will hate you. ;)
+- 🐍 language I am currently developing: Python 
   
 <br>Connect with me<br>
 
